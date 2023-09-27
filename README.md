@@ -31,7 +31,7 @@ The **Task List** is a web application built using **Vue 3** and the **Vue 3 Com
 
 ## Screenshots 🖼️
 
-![Screenshot 1](/screenshot/Vue-TaskList-Desktop-View.png)
+<img src="public/screenshot/Vue-TaskList-Desktop-View.png" alt="📸Screenshot 1" width="500px" />
 
 ## Installation 🚀
 
